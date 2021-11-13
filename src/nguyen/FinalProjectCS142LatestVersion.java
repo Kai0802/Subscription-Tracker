@@ -14,6 +14,11 @@ public class FinalProjectCS142LatestVersion {
      */
     public static void main(String[] args) {
         Application.launch(ProjectUI.class);
+        System.out.println("Maybe print this line just for fun");
+        for(int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+        System.out.println("Another line just for fun");
     }
     
 }
