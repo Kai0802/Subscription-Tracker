@@ -3,7 +3,7 @@ package nguyen;
 import javafx.application.Application;
 
 /**
- * This is just a test comment
+ * I don't know why this is working (testing)
  * 
  * @author Phuoc Nguyen {@literal <h.phuoc137@gmail.com>}
  */
