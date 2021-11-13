@@ -3,7 +3,8 @@ package nguyen;
 import javafx.application.Application;
 
 /**
- * I don't know why this is working (testing)
+ * I don't know why this is working (testing) maybe doing something like this and see 
+ * if it causes any change in the github website
  * 
  * @author Phuoc Nguyen {@literal <h.phuoc137@gmail.com>}
  */
